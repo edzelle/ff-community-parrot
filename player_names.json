@@ -1,0 +1,2904 @@
+[
+    {
+        "player_id": "4881",
+        "full_name": "Lamar Jackson",
+        "nicknames": [
+            "Lamar",
+            "Jackson",
+            "Lamar Jackson"
+        ],
+        "position": "QB"
+    },
+    {
+        "player_id": "4984",
+        "full_name": "Josh Allen",
+        "nicknames": [
+            "Josh",
+            "Allen",
+            "Josh Allen"
+        ],
+        "position": "QB"
+    },
+    {
+        "player_id": "11566",
+        "full_name": "Jayden Daniels",
+        "nicknames": [
+            "Jayden",
+            "Daniels",
+            "Jayden Daniels"
+        ],
+        "position": "QB"
+    },
+    {
+        "player_id": "6904",
+        "full_name": "Jalen Hurts",
+        "nicknames": [
+            "Jalen",
+            "Hurts",
+            "Jalen Hurts"
+        ],
+        "position": "QB"
+    },
+    {
+        "player_id": "6770",
+        "full_name": "Joe Burrow",
+        "nicknames": [
+            "Joe",
+            "Burrow",
+            "Joe Burrow"
+        ],
+        "position": "QB"
+    },
+    {
+        "player_id": "4046",
+        "full_name": "Patrick Mahomes",
+        "nicknames": [
+            "Patrick",
+            "Mahomes",
+            "Patrick Mahomes"
+        ],
+        "position": "QB"
+    },
+    {
+        "player_id": "4892",
+        "full_name": "Baker Mayfield",
+        "nicknames": [
+            "Baker",
+            "Mayfield",
+            "Baker Mayfield"
+        ],
+        "position": "QB"
+    },
+    {
+        "player_id": "11563",
+        "full_name": "Bo Nix",
+        "nicknames": [
+            "Bo",
+            "Nix",
+            "Bo Nix"
+        ],
+        "position": "QB"
+    },
+    {
+        "player_id": "3163",
+        "full_name": "Jared Goff",
+        "nicknames": [
+            "Jared",
+            "Goff",
+            "Jared Goff"
+        ],
+        "position": "QB"
+    },
+    {
+        "player_id": "5849",
+        "full_name": "Kyler Murray",
+        "nicknames": [
+            "Kyler",
+            "Murray",
+            "Kyler Murray"
+        ],
+        "position": "QB"
+    },
+    {
+        "player_id": "6797",
+        "full_name": "Justin Herbert",
+        "nicknames": [
+            "Justin",
+            "Herbert",
+            "Justin Herbert"
+        ],
+        "position": "QB"
+    },
+    {
+        "player_id": "8183",
+        "full_name": "Brock Purdy",
+        "nicknames": [
+            "Brock",
+            "Purdy",
+            "Brock Purdy"
+        ],
+        "position": "QB"
+    },
+    {
+        "player_id": "3294",
+        "full_name": "Dak Prescott",
+        "nicknames": [
+            "Dak",
+            "Prescott",
+            "Dak Prescott"
+        ],
+        "position": "QB"
+    },
+    {
+        "player_id": "9758",
+        "full_name": "C.J. Stroud",
+        "nicknames": [
+            "C.J.",
+            "Stroud",
+            "C.J. Stroud"
+        ],
+        "position": "QB"
+    },
+    {
+        "player_id": "11564",
+        "full_name": "Drake Maye",
+        "nicknames": [
+            "Drake",
+            "Maye",
+            "Drake Maye"
+        ],
+        "position": "QB"
+    },
+    {
+        "player_id": "11560",
+        "full_name": "Caleb Williams",
+        "nicknames": [
+            "Caleb",
+            "Williams",
+            "Caleb Williams"
+        ],
+        "position": "QB"
+    },
+    {
+        "player_id": "6804",
+        "full_name": "Jordan Love",
+        "nicknames": [
+            "Jordan",
+            "Love",
+            "Jordan Love"
+        ],
+        "position": "QB"
+    },
+    {
+        "player_id": "11565",
+        "full_name": "J.J. McCarthy",
+        "nicknames": [
+            "J.J.",
+            "McCarthy",
+            "J.J. McCarthy"
+        ],
+        "position": "QB"
+    },
+    {
+        "player_id": "7591",
+        "full_name": "Justin Fields",
+        "nicknames": [
+            "Justin",
+            "Fields",
+            "Justin Fields"
+        ],
+        "position": "QB"
+    },
+    {
+        "player_id": "12522",
+        "full_name": "Cam Ward",
+        "nicknames": [
+            "Cam",
+            "Ward",
+            "Cam Ward"
+        ],
+        "position": "QB"
+    },
+    {
+        "player_id": "7523",
+        "full_name": "Trevor Lawrence",
+        "nicknames": [
+            "Trevor",
+            "Lawrence",
+            "Trevor Lawrence"
+        ],
+        "position": "QB"
+    },
+    {
+        "player_id": "11559",
+        "full_name": "Michael Penix",
+        "nicknames": [
+            "Michael",
+            "Penix",
+            "Michael Penix"
+        ],
+        "position": "QB"
+    },
+    {
+        "player_id": "9228",
+        "full_name": "Bryce Young",
+        "nicknames": [
+            "Bryce",
+            "Young",
+            "Bryce Young"
+        ],
+        "position": "QB"
+    },
+    {
+        "player_id": "12524",
+        "full_name": "Shedeur Sanders",
+        "nicknames": [
+            "Shedeur",
+            "Sanders",
+            "Shedeur Sanders"
+        ],
+        "position": "QB"
+    },
+    {
+        "player_id": "421",
+        "full_name": "Matthew Stafford",
+        "nicknames": [
+            "Matthew",
+            "Stafford",
+            "Matthew Stafford"
+        ],
+        "position": "QB"
+    },
+    {
+        "player_id": "6768",
+        "full_name": "Tua Tagovailoa",
+        "nicknames": [
+            "Tua",
+            "Tagovailoa",
+            "Tua Tagovailoa"
+        ],
+        "position": "QB"
+    },
+    {
+        "player_id": "96",
+        "full_name": "Aaron Rodgers",
+        "nicknames": [
+            "Aaron",
+            "Rodgers",
+            "Aaron Rodgers"
+        ],
+        "position": "QB"
+    },
+    {
+        "player_id": "12508",
+        "full_name": "Jaxson Dart",
+        "nicknames": [
+            "Jaxson",
+            "Dart",
+            "Jaxson Dart"
+        ],
+        "position": "QB"
+    },
+    {
+        "player_id": "4943",
+        "full_name": "Sam Darnold",
+        "nicknames": [
+            "Sam",
+            "Darnold",
+            "Sam Darnold"
+        ],
+        "position": "QB"
+    },
+    {
+        "player_id": "1373",
+        "full_name": "Geno Smith",
+        "nicknames": [
+            "Geno",
+            "Smith",
+            "Geno Smith"
+        ],
+        "position": "QB"
+    },
+    {
+        "player_id": "9229",
+        "full_name": "Anthony Richardson",
+        "nicknames": [
+            "Anthony",
+            "Richardson",
+            "Anthony Richardson"
+        ],
+        "position": "QB"
+    },
+    {
+        "player_id": "1234",
+        "full_name": "Russell Wilson",
+        "nicknames": [
+            "Russell",
+            "Wilson",
+            "Russell Wilson"
+        ],
+        "position": "QB"
+    },
+    {
+        "player_id": "12510",
+        "full_name": "Jalen Milroe",
+        "nicknames": [
+            "Jalen",
+            "Milroe",
+            "Jalen Milroe"
+        ],
+        "position": "QB"
+    },
+    {
+        "player_id": "12545",
+        "full_name": "Tyler Shough",
+        "nicknames": [
+            "Tyler",
+            "Shough",
+            "Tyler Shough"
+        ],
+        "position": "QB"
+    },
+    {
+        "player_id": "19",
+        "full_name": "Joe Flacco",
+        "nicknames": [
+            "Joe",
+            "Flacco",
+            "Joe Flacco"
+        ],
+        "position": "QB"
+    },
+    {
+        "player_id": "5870",
+        "full_name": "Daniel Jones",
+        "nicknames": [
+            "Daniel",
+            "Jones",
+            "Daniel Jones"
+        ],
+        "position": "QB"
+    },
+    {
+        "player_id": "6596",
+        "full_name": "Jalan McClendon",
+        "nicknames": [
+            "Jalan",
+            "McClendon",
+            "Jalan McClendon"
+        ],
+        "position": "QB"
+    },
+    {
+        "player_id": "8201",
+        "full_name": "Jack Coan",
+        "nicknames": [
+            "Jack",
+            "Coan",
+            "Jack Coan"
+        ],
+        "position": "QB"
+    },
+    {
+        "player_id": "4924",
+        "full_name": "Zach Terrell",
+        "nicknames": [
+            "Zach",
+            "Terrell",
+            "Zach Terrell"
+        ],
+        "position": "QB"
+    },
+    {
+        "player_id": "8553",
+        "full_name": "Tre Ford",
+        "nicknames": [
+            "Tre",
+            "Ford",
+            "Tre Ford"
+        ],
+        "position": "QB"
+    },
+    {
+        "player_id": "4866",
+        "full_name": "Saquon Barkley",
+        "nicknames": [
+            "Saquon",
+            "Barkley",
+            "Saquon Barkley"
+        ],
+        "position": "RB"
+    },
+    {
+        "player_id": "9509",
+        "full_name": "Bijan Robinson",
+        "nicknames": [
+            "Bijan",
+            "Robinson",
+            "Bijan Robinson"
+        ],
+        "position": "RB"
+    },
+    {
+        "player_id": "9221",
+        "full_name": "Jahmyr Gibbs",
+        "nicknames": [
+            "Jahmyr",
+            "Gibbs",
+            "Jahmyr Gibbs"
+        ],
+        "position": "RB"
+    },
+    {
+        "player_id": "3198",
+        "full_name": "Derrick Henry",
+        "nicknames": [
+            "Derrick",
+            "Henry",
+            "Derrick Henry"
+        ],
+        "position": "RB"
+    },
+    {
+        "player_id": "4034",
+        "full_name": "Christian McCaffrey",
+        "nicknames": [
+            "Christian",
+            "McCaffrey",
+            "Christian McCaffrey"
+        ],
+        "position": "RB"
+    },
+    {
+        "player_id": "12527",
+        "full_name": "Ashton Jeanty",
+        "nicknames": [
+            "Ashton",
+            "Jeanty",
+            "Ashton Jeanty"
+        ],
+        "position": "RB"
+    },
+    {
+        "player_id": "9226",
+        "full_name": "De'Von Achane",
+        "nicknames": [
+            "De'Von",
+            "Achane",
+            "De'Von Achane"
+        ],
+        "position": "RB"
+    },
+    {
+        "player_id": "5850",
+        "full_name": "Josh Jacobs",
+        "nicknames": [
+            "Josh",
+            "Jacobs",
+            "Josh Jacobs"
+        ],
+        "position": "RB"
+    },
+    {
+        "player_id": "11584",
+        "full_name": "Bucky Irving",
+        "nicknames": [
+            "Bucky",
+            "Irving",
+            "Bucky Irving"
+        ],
+        "position": "RB"
+    },
+    {
+        "player_id": "6813",
+        "full_name": "Jonathan Taylor",
+        "nicknames": [
+            "Jonathan",
+            "Taylor",
+            "Jonathan Taylor"
+        ],
+        "position": "RB"
+    },
+    {
+        "player_id": "8150",
+        "full_name": "Kyren Williams",
+        "nicknames": [
+            "Kyren",
+            "Williams",
+            "Kyren Williams"
+        ],
+        "position": "RB"
+    },
+    {
+        "player_id": "9224",
+        "full_name": "Chase Brown",
+        "nicknames": [
+            "Chase",
+            "Brown",
+            "Chase Brown"
+        ],
+        "position": "RB"
+    },
+    {
+        "player_id": "8138",
+        "full_name": "James Cook",
+        "nicknames": [
+            "James",
+            "Cook",
+            "James Cook"
+        ],
+        "position": "RB"
+    },
+    {
+        "player_id": "8155",
+        "full_name": "Breece Hall",
+        "nicknames": [
+            "Breece",
+            "Hall",
+            "Breece Hall"
+        ],
+        "position": "RB"
+    },
+    {
+        "player_id": "4035",
+        "full_name": "Alvin Kamara",
+        "nicknames": [
+            "Alvin",
+            "Kamara",
+            "Alvin Kamara"
+        ],
+        "position": "RB"
+    },
+    {
+        "player_id": "12507",
+        "full_name": "Omarion Hampton",
+        "nicknames": [
+            "Omarion",
+            "Hampton",
+            "Omarion Hampton"
+        ],
+        "position": "RB"
+    },
+    {
+        "player_id": "8151",
+        "full_name": "Kenneth Walker",
+        "nicknames": [
+            "Kenneth",
+            "Walker",
+            "Kenneth Walker"
+        ],
+        "position": "RB"
+    },
+    {
+        "player_id": "7594",
+        "full_name": "Chuba Hubbard",
+        "nicknames": [
+            "Chuba",
+            "Hubbard",
+            "Chuba Hubbard"
+        ],
+        "position": "RB"
+    },
+    {
+        "player_id": "4137",
+        "full_name": "James Conner",
+        "nicknames": [
+            "James",
+            "Conner",
+            "James Conner"
+        ],
+        "position": "RB"
+    },
+    {
+        "player_id": "5892",
+        "full_name": "David Montgomery",
+        "nicknames": [
+            "David",
+            "Montgomery",
+            "David Montgomery"
+        ],
+        "position": "RB"
+    },
+    {
+        "player_id": "12529",
+        "full_name": "TreVeyon Henderson",
+        "nicknames": [
+            "TreVeyon",
+            "Henderson",
+            "TreVeyon Henderson"
+        ],
+        "position": "RB"
+    },
+    {
+        "player_id": "8205",
+        "full_name": "Isiah Pacheco",
+        "nicknames": [
+            "Isiah",
+            "Pacheco",
+            "Isiah Pacheco"
+        ],
+        "position": "RB"
+    },
+    {
+        "player_id": "12489",
+        "full_name": "RJ Harvey",
+        "nicknames": [
+            "RJ",
+            "Harvey",
+            "RJ Harvey"
+        ],
+        "position": "RB"
+    },
+    {
+        "player_id": "4199",
+        "full_name": "Aaron Jones",
+        "nicknames": [
+            "Aaron",
+            "Jones",
+            "Aaron Jones"
+        ],
+        "position": "RB"
+    },
+    {
+        "player_id": "6790",
+        "full_name": "D'Andre Swift",
+        "nicknames": [
+            "D'Andre",
+            "Swift",
+            "D'Andre Swift"
+        ],
+        "position": "RB"
+    },
+    {
+        "player_id": "4018",
+        "full_name": "Joe Mixon",
+        "nicknames": [
+            "Joe",
+            "Mixon",
+            "Joe Mixon"
+        ],
+        "position": "RB"
+    },
+    {
+        "player_id": "5967",
+        "full_name": "Tony Pollard",
+        "nicknames": [
+            "Tony",
+            "Pollard",
+            "Tony Pollard"
+        ],
+        "position": "RB"
+    },
+    {
+        "player_id": "12512",
+        "full_name": "Quinshon Judkins",
+        "nicknames": [
+            "Quinshon",
+            "Judkins",
+            "Quinshon Judkins"
+        ],
+        "position": "RB"
+    },
+    {
+        "player_id": "12504",
+        "full_name": "Kaleb Johnson",
+        "nicknames": [
+            "Kaleb",
+            "Johnson",
+            "Kaleb Johnson"
+        ],
+        "position": "RB"
+    },
+    {
+        "player_id": "8154",
+        "full_name": "Brian Robinson",
+        "nicknames": [
+            "Brian",
+            "Robinson",
+            "Brian Robinson"
+        ],
+        "position": "RB"
+    },
+    {
+        "player_id": "11655",
+        "full_name": "Tyrone Tracy",
+        "nicknames": [
+            "Tyrone",
+            "Tracy",
+            "Tyrone Tracy"
+        ],
+        "position": "RB"
+    },
+    {
+        "player_id": "7543",
+        "full_name": "Travis Etienne",
+        "nicknames": [
+            "Travis",
+            "Etienne",
+            "Travis Etienne"
+        ],
+        "position": "RB"
+    },
+    {
+        "player_id": "8228",
+        "full_name": "Jaylen Warren",
+        "nicknames": [
+            "Jaylen",
+            "Warren",
+            "Jaylen Warren"
+        ],
+        "position": "RB"
+    },
+    {
+        "player_id": "12481",
+        "full_name": "Cam Skattebo",
+        "nicknames": [
+            "Cam",
+            "Skattebo",
+            "Cam Skattebo"
+        ],
+        "position": "RB"
+    },
+    {
+        "player_id": "8408",
+        "full_name": "Jordan Mason",
+        "nicknames": [
+            "Jordan",
+            "Mason",
+            "Jordan Mason"
+        ],
+        "position": "RB"
+    },
+    {
+        "player_id": "6806",
+        "full_name": "J.K. Dobbins",
+        "nicknames": [
+            "J.K.",
+            "Dobbins",
+            "J.K. Dobbins"
+        ],
+        "position": "RB"
+    },
+    {
+        "player_id": "9753",
+        "full_name": "Zach Charbonnet",
+        "nicknames": [
+            "Zach",
+            "Charbonnet",
+            "Zach Charbonnet"
+        ],
+        "position": "RB"
+    },
+    {
+        "player_id": "7588",
+        "full_name": "Javonte Williams",
+        "nicknames": [
+            "Javonte",
+            "Williams",
+            "Javonte Williams"
+        ],
+        "position": "RB"
+    },
+    {
+        "player_id": "4988",
+        "full_name": "Nick Chubb",
+        "nicknames": [
+            "Nick",
+            "Chubb",
+            "Nick Chubb"
+        ],
+        "position": "RB"
+    },
+    {
+        "player_id": "7611",
+        "full_name": "Rhamondre Stevenson",
+        "nicknames": [
+            "Rhamondre",
+            "Stevenson",
+            "Rhamondre Stevenson"
+        ],
+        "position": "RB"
+    },
+    {
+        "player_id": "4663",
+        "full_name": "Austin Ekeler",
+        "nicknames": [
+            "Austin",
+            "Ekeler",
+            "Austin Ekeler"
+        ],
+        "position": "RB"
+    },
+    {
+        "player_id": "9225",
+        "full_name": "Tank Bigsby",
+        "nicknames": [
+            "Tank",
+            "Bigsby",
+            "Tank Bigsby"
+        ],
+        "position": "RB"
+    },
+    {
+        "player_id": "12457",
+        "full_name": "Jaydon Blue",
+        "nicknames": [
+            "Jaydon",
+            "Blue",
+            "Jaydon Blue"
+        ],
+        "position": "RB"
+    },
+    {
+        "player_id": "7528",
+        "full_name": "Najee Harris",
+        "nicknames": [
+            "Najee",
+            "Harris",
+            "Najee Harris"
+        ],
+        "position": "RB"
+    },
+    {
+        "player_id": "9508",
+        "full_name": "Tyjae Spears",
+        "nicknames": [
+            "Tyjae",
+            "Spears",
+            "Tyjae Spears"
+        ],
+        "position": "RB"
+    },
+    {
+        "player_id": "12533",
+        "full_name": "Jacory Croskey-Merritt",
+        "nicknames": [
+            "Jacory",
+            "Croskey-Merritt",
+            "Jacory Croskey-Merritt"
+        ],
+        "position": "RB"
+    },
+    {
+        "player_id": "11576",
+        "full_name": "Braelon Allen",
+        "nicknames": [
+            "Braelon",
+            "Allen",
+            "Braelon Allen"
+        ],
+        "position": "RB"
+    },
+    {
+        "player_id": "11589",
+        "full_name": "Trey Benson",
+        "nicknames": [
+            "Trey",
+            "Benson",
+            "Trey Benson"
+        ],
+        "position": "RB"
+    },
+    {
+        "player_id": "8136",
+        "full_name": "Rachaad White",
+        "nicknames": [
+            "Rachaad",
+            "White",
+            "Rachaad White"
+        ],
+        "position": "RB"
+    },
+    {
+        "player_id": "12490",
+        "full_name": "Bhayshul Tuten",
+        "nicknames": [
+            "Bhayshul",
+            "Tuten",
+            "Bhayshul Tuten"
+        ],
+        "position": "RB"
+    },
+    {
+        "player_id": "11651",
+        "full_name": "Isaac Guerendo",
+        "nicknames": [
+            "Isaac",
+            "Guerendo",
+            "Isaac Guerendo"
+        ],
+        "position": "RB"
+    },
+    {
+        "player_id": "11575",
+        "full_name": "Ray Davis",
+        "nicknames": [
+            "Ray",
+            "Davis",
+            "Ray Davis"
+        ],
+        "position": "RB"
+    },
+    {
+        "player_id": "8143",
+        "full_name": "Jerome Ford",
+        "nicknames": [
+            "Jerome",
+            "Ford",
+            "Jerome Ford"
+        ],
+        "position": "RB"
+    },
+    {
+        "player_id": "12469",
+        "full_name": "Dylan Sampson",
+        "nicknames": [
+            "Dylan",
+            "Sampson",
+            "Dylan Sampson"
+        ],
+        "position": "RB"
+    },
+    {
+        "player_id": "8132",
+        "full_name": "Tyler Allgeier",
+        "nicknames": [
+            "Tyler",
+            "Allgeier",
+            "Tyler Allgeier"
+        ],
+        "position": "RB"
+    },
+    {
+        "player_id": "4098",
+        "full_name": "Kareem Hunt",
+        "nicknames": [
+            "Kareem",
+            "Hunt",
+            "Kareem Hunt"
+        ],
+        "position": "RB"
+    },
+    {
+        "player_id": "11643",
+        "full_name": "Jaylen Wright",
+        "nicknames": [
+            "Jaylen",
+            "Wright",
+            "Jaylen Wright"
+        ],
+        "position": "RB"
+    },
+    {
+        "player_id": "7021",
+        "full_name": "Rico Dowdle",
+        "nicknames": [
+            "Rico",
+            "Dowdle",
+            "Rico Dowdle"
+        ],
+        "position": "RB"
+    },
+    {
+        "player_id": "12495",
+        "full_name": "Ollie Gordon",
+        "nicknames": [
+            "Ollie",
+            "Gordon",
+            "Ollie Gordon"
+        ],
+        "position": "RB"
+    },
+    {
+        "player_id": "12474",
+        "full_name": "Woody Marks",
+        "nicknames": [
+            "Woody",
+            "Marks",
+            "Woody Marks"
+        ],
+        "position": "RB"
+    },
+    {
+        "player_id": "11577",
+        "full_name": "Will Shipley",
+        "nicknames": [
+            "Will",
+            "Shipley",
+            "Will Shipley"
+        ],
+        "position": "RB"
+    },
+    {
+        "player_id": "11586",
+        "full_name": "Blake Corum",
+        "nicknames": [
+            "Blake",
+            "Corum",
+            "Blake Corum"
+        ],
+        "position": "RB"
+    },
+    {
+        "player_id": "10235",
+        "full_name": "Roschon Johnson",
+        "nicknames": [
+            "Roschon",
+            "Johnson",
+            "Roschon Johnson"
+        ],
+        "position": "RB"
+    },
+    {
+        "player_id": "9511",
+        "full_name": "Keaton Mitchell",
+        "nicknames": [
+            "Keaton",
+            "Mitchell",
+            "Keaton Mitchell"
+        ],
+        "position": "RB"
+    },
+    {
+        "player_id": "12543",
+        "full_name": "Tahj Brooks",
+        "nicknames": [
+            "Tahj",
+            "Brooks",
+            "Tahj Brooks"
+        ],
+        "position": "RB"
+    },
+    {
+        "player_id": "12534",
+        "full_name": "Kyle Monangai",
+        "nicknames": [
+            "Kyle",
+            "Monangai",
+            "Kyle Monangai"
+        ],
+        "position": "RB"
+    },
+    {
+        "player_id": "2749",
+        "full_name": "Raheem Mostert",
+        "nicknames": [
+            "Raheem",
+            "Mostert",
+            "Raheem Mostert"
+        ],
+        "position": "RB"
+    },
+    {
+        "player_id": "5995",
+        "full_name": "Justice Hill",
+        "nicknames": [
+            "Justice",
+            "Hill",
+            "Justice Hill"
+        ],
+        "position": "RB"
+    },
+    {
+        "player_id": "12471",
+        "full_name": "DJ Giddens",
+        "nicknames": [
+            "DJ",
+            "Giddens",
+            "DJ Giddens"
+        ],
+        "position": "RB"
+    },
+    {
+        "player_id": "6151",
+        "full_name": "Miles Sanders",
+        "nicknames": [
+            "Miles",
+            "Sanders",
+            "Miles Sanders"
+        ],
+        "position": "RB"
+    },
+    {
+        "player_id": "11569",
+        "full_name": "Jarquez Hunter",
+        "nicknames": [
+            "Jarquez",
+            "Hunter",
+            "Jarquez Hunter"
+        ],
+        "position": "RB"
+    },
+    {
+        "player_id": "12455",
+        "full_name": "Brashard Smith",
+        "nicknames": [
+            "Brashard",
+            "Smith",
+            "Brashard Smith"
+        ],
+        "position": "RB"
+    },
+    {
+        "player_id": "3859",
+        "full_name": "Jalen Simmons",
+        "nicknames": [
+            "Jalen",
+            "Simmons",
+            "Jalen Simmons"
+        ],
+        "position": "RB"
+    },
+    {
+        "player_id": "12476",
+        "full_name": "Devin Neal",
+        "nicknames": [
+            "Devin",
+            "Neal",
+            "Devin Neal"
+        ],
+        "position": "RB"
+    },
+    {
+        "player_id": "5407",
+        "full_name": "Ervin Philips",
+        "nicknames": [
+            "Ervin",
+            "Philips",
+            "Ervin Philips"
+        ],
+        "position": "RB"
+    },
+    {
+        "player_id": "11581",
+        "full_name": "MarShawn Lloyd",
+        "nicknames": [
+            "MarShawn",
+            "Lloyd",
+            "MarShawn Lloyd"
+        ],
+        "position": "RB"
+    },
+    {
+        "player_id": "6592",
+        "full_name": "Dontae Strickland",
+        "nicknames": [
+            "Dontae",
+            "Strickland",
+            "Dontae Strickland"
+        ],
+        "position": "RB"
+    },
+    {
+        "player_id": "5162",
+        "full_name": "Reggie Bonnafon",
+        "nicknames": [
+            "Reggie",
+            "Bonnafon",
+            "Reggie Bonnafon"
+        ],
+        "position": "RB"
+    },
+    {
+        "player_id": "9757",
+        "full_name": "Kendre Miller",
+        "nicknames": [
+            "Kendre",
+            "Miller",
+            "Kendre Miller"
+        ],
+        "position": "RB"
+    },
+    {
+        "player_id": "8149",
+        "full_name": "Master Teague",
+        "nicknames": [
+            "Master",
+            "Teague",
+            "Master Teague"
+        ],
+        "position": "RB"
+    },
+    {
+        "player_id": "6705",
+        "full_name": "Taj McGowan",
+        "nicknames": [
+            "Taj",
+            "McGowan",
+            "Taj McGowan"
+        ],
+        "position": "RB"
+    },
+    {
+        "player_id": "12467",
+        "full_name": "Jordan James",
+        "nicknames": [
+            "Jordan",
+            "James",
+            "Jordan James"
+        ],
+        "position": "RB"
+    },
+    {
+        "player_id": "3891",
+        "full_name": "Kyle Coleman",
+        "nicknames": [
+            "Kyle",
+            "Coleman",
+            "Kyle Coleman"
+        ],
+        "position": "FB"
+    },
+    {
+        "player_id": "2820",
+        "full_name": "Dominique Brown",
+        "nicknames": [
+            "Dominique",
+            "Brown",
+            "Dominique Brown"
+        ],
+        "position": "RB"
+    },
+    {
+        "player_id": "7561",
+        "full_name": "Elijah Mitchell",
+        "nicknames": [
+            "Elijah",
+            "Mitchell",
+            "Elijah Mitchell"
+        ],
+        "position": "RB"
+    },
+    {
+        "player_id": "8934",
+        "full_name": "Clint Ratkovich",
+        "nicknames": [
+            "Clint",
+            "Ratkovich",
+            "Clint Ratkovich"
+        ],
+        "position": "FB"
+    },
+    {
+        "player_id": "5201",
+        "full_name": "Terry Swanson",
+        "nicknames": [
+            "Terry",
+            "Swanson",
+            "Terry Swanson"
+        ],
+        "position": "RB"
+    },
+    {
+        "player_id": "11439",
+        "full_name": "Jaleel McLaughlin",
+        "nicknames": [
+            "Jaleel",
+            "McLaughlin",
+            "Jaleel McLaughlin"
+        ],
+        "position": "RB"
+    },
+    {
+        "player_id": "3531",
+        "full_name": "Marshaun Coprich",
+        "nicknames": [
+            "Marshaun",
+            "Coprich",
+            "Marshaun Coprich"
+        ],
+        "position": "RB"
+    },
+    {
+        "player_id": "1546",
+        "full_name": "Kenjon Barner",
+        "nicknames": [
+            "Kenjon",
+            "Barner",
+            "Kenjon Barner"
+        ],
+        "position": "RB"
+    },
+    {
+        "player_id": "1517",
+        "full_name": "Theo Riddick",
+        "nicknames": [
+            "Theo",
+            "Riddick",
+            "Theo Riddick"
+        ],
+        "position": "RB"
+    },
+    {
+        "player_id": "2981",
+        "full_name": "Ross Scheuerman",
+        "nicknames": [
+            "Ross",
+            "Scheuerman",
+            "Ross Scheuerman"
+        ],
+        "position": "RB"
+    },
+    {
+        "player_id": "12531",
+        "full_name": "Trevor Etienne",
+        "nicknames": [
+            "Trevor",
+            "Etienne",
+            "Trevor Etienne"
+        ],
+        "position": "RB"
+    },
+    {
+        "player_id": "6918",
+        "full_name": "Salvon Ahmed",
+        "nicknames": [
+            "Salvon",
+            "Ahmed",
+            "Salvon Ahmed"
+        ],
+        "position": "RB"
+    },
+    {
+        "player_id": "12061",
+        "full_name": "Noah Cain",
+        "nicknames": [
+            "Noah",
+            "Cain",
+            "Noah Cain"
+        ],
+        "position": "RB"
+    },
+    {
+        "player_id": "6845",
+        "full_name": "Zack Moss",
+        "nicknames": [
+            "Zack",
+            "Moss",
+            "Zack Moss"
+        ],
+        "position": "RB"
+    },
+    {
+        "player_id": "11579",
+        "full_name": "Audric Estime",
+        "nicknames": [
+            "Audric",
+            "Estime",
+            "Audric Estime"
+        ],
+        "position": "RB"
+    },
+    {
+        "player_id": "6130",
+        "full_name": "Devin Singletary",
+        "nicknames": [
+            "Devin",
+            "Singletary",
+            "Devin Singletary"
+        ],
+        "position": "RB"
+    },
+    {
+        "player_id": "7608",
+        "full_name": "Khalil Herbert",
+        "nicknames": [
+            "Khalil",
+            "Herbert",
+            "Khalil Herbert"
+        ],
+        "position": "RB"
+    },
+    {
+        "player_id": "8085",
+        "full_name": "Mekhi Sargent",
+        "nicknames": [
+            "Mekhi",
+            "Sargent",
+            "Mekhi Sargent"
+        ],
+        "position": "RB"
+    },
+    {
+        "player_id": "7564",
+        "full_name": "Ja'Marr Chase",
+        "nicknames": [
+            "Ja'Marr",
+            "Chase",
+            "Ja'Marr Chase"
+        ],
+        "position": "WR"
+    },
+    {
+        "player_id": "6794",
+        "full_name": "Justin Jefferson",
+        "nicknames": [
+            "Justin",
+            "Jefferson",
+            "Justin Jefferson"
+        ],
+        "position": "WR"
+    },
+    {
+        "player_id": "7547",
+        "full_name": "Amon-Ra St. Brown",
+        "nicknames": [
+            "Amon-Ra",
+            "St. Brown",
+            "Amon-Ra St. Brown"
+        ],
+        "position": "WR"
+    },
+    {
+        "player_id": "6786",
+        "full_name": "CeeDee Lamb",
+        "nicknames": [
+            "CeeDee",
+            "Lamb",
+            "CeeDee Lamb"
+        ],
+        "position": "WR"
+    },
+    {
+        "player_id": "9493",
+        "full_name": "Puka Nacua",
+        "nicknames": [
+            "Puka",
+            "Nacua",
+            "Puka Nacua"
+        ],
+        "position": "WR"
+    },
+    {
+        "player_id": "11632",
+        "full_name": "Malik Nabers",
+        "nicknames": [
+            "Malik",
+            "Nabers",
+            "Malik Nabers"
+        ],
+        "position": "WR"
+    },
+    {
+        "player_id": "7569",
+        "full_name": "Nico Collins",
+        "nicknames": [
+            "Nico",
+            "Collins",
+            "Nico Collins"
+        ],
+        "position": "WR"
+    },
+    {
+        "player_id": "11631",
+        "full_name": "Brian Thomas",
+        "nicknames": [
+            "Brian",
+            "Thomas",
+            "Brian Thomas"
+        ],
+        "position": "WR"
+    },
+    {
+        "player_id": "8112",
+        "full_name": "Drake London",
+        "nicknames": [
+            "Drake",
+            "London",
+            "Drake London"
+        ],
+        "position": "WR"
+    },
+    {
+        "player_id": "5859",
+        "full_name": "A.J. Brown",
+        "nicknames": [
+            "A.J.",
+            "Brown",
+            "A.J. Brown"
+        ],
+        "position": "WR"
+    },
+    {
+        "player_id": "11635",
+        "full_name": "Ladd McConkey",
+        "nicknames": [
+            "Ladd",
+            "McConkey",
+            "Ladd McConkey"
+        ],
+        "position": "WR"
+    },
+    {
+        "player_id": "3321",
+        "full_name": "Tyreek Hill",
+        "nicknames": [
+            "Tyreek",
+            "Hill",
+            "Tyreek Hill"
+        ],
+        "position": "WR"
+    },
+    {
+        "player_id": "9488",
+        "full_name": "Jaxon Smith-Njigba",
+        "nicknames": [
+            "Jaxon",
+            "Smith-Njigba",
+            "Jaxon Smith-Njigba"
+        ],
+        "position": "WR"
+    },
+    {
+        "player_id": "6801",
+        "full_name": "Tee Higgins",
+        "nicknames": [
+            "Tee",
+            "Higgins",
+            "Tee Higgins"
+        ],
+        "position": "WR"
+    },
+    {
+        "player_id": "8146",
+        "full_name": "Garrett Wilson",
+        "nicknames": [
+            "Garrett",
+            "Wilson",
+            "Garrett Wilson",
+            "GW"
+        ],
+        "position": "WR"
+    },
+    {
+        "player_id": "11628",
+        "full_name": "Marvin Harrison",
+        "nicknames": [
+            "Marvin",
+            "Harrison",
+            "Marvin Harrison",
+            "MHJ"
+        ],
+        "position": "WR"
+    },
+    {
+        "player_id": "2216",
+        "full_name": "Mike Evans",
+        "nicknames": [
+            "Mike",
+            "Evans",
+            "Mike Evans"
+        ],
+        "position": "WR"
+    },
+    {
+        "player_id": "5927",
+        "full_name": "Terry McLaurin",
+        "nicknames": [
+            "Terry",
+            "McLaurin",
+            "Terry McLaurin"
+        ],
+        "position": "WR"
+    },
+    {
+        "player_id": "2133",
+        "full_name": "Davante Adams",
+        "nicknames": [
+            "Davante",
+            "Adams",
+            "Davante Adams"
+        ],
+        "position": "WR"
+    },
+    {
+        "player_id": "5846",
+        "full_name": "DK Metcalf",
+        "nicknames": [
+            "DK",
+            "Metcalf",
+            "DK Metcalf"
+        ],
+        "position": "WR"
+    },
+    {
+        "player_id": "10229",
+        "full_name": "Rashee Rice",
+        "nicknames": [
+            "Rashee",
+            "Rice",
+            "Rashee Rice"
+        ],
+        "position": "WR"
+    },
+    {
+        "player_id": "4983",
+        "full_name": "DJ Moore",
+        "nicknames": [
+            "DJ",
+            "Moore",
+            "DJ Moore"
+        ],
+        "position": "WR"
+    },
+    {
+        "player_id": "5045",
+        "full_name": "Courtland Sutton",
+        "nicknames": [
+            "Courtland",
+            "Sutton",
+            "Courtland Sutton"
+        ],
+        "position": "WR"
+    },
+    {
+        "player_id": "7525",
+        "full_name": "DeVonta Smith",
+        "nicknames": [
+            "DeVonta",
+            "Smith",
+            "DeVonta Smith"
+        ],
+        "position": "WR"
+    },
+    {
+        "player_id": "9997",
+        "full_name": "Zay Flowers",
+        "nicknames": [
+            "Zay",
+            "Flowers",
+            "Zay Flowers"
+        ],
+        "position": "WR"
+    },
+    {
+        "player_id": "11624",
+        "full_name": "Xavier Worthy",
+        "nicknames": [
+            "Xavier",
+            "Worthy",
+            "Xavier Worthy"
+        ],
+        "position": "WR"
+    },
+    {
+        "player_id": "8137",
+        "full_name": "George Pickens",
+        "nicknames": [
+            "George",
+            "Pickens",
+            "George Pickens"
+        ],
+        "position": "WR"
+    },
+    {
+        "player_id": "12526",
+        "full_name": "Tetairoa McMillan",
+        "nicknames": [
+            "Tetairoa",
+            "McMillan",
+            "Tetairoa McMillan"
+        ],
+        "position": "WR"
+    },
+    {
+        "player_id": "8148",
+        "full_name": "Jameson Williams",
+        "nicknames": [
+            "Jameson",
+            "Williams",
+            "Jameson Williams"
+        ],
+        "position": "WR"
+    },
+    {
+        "player_id": "12530",
+        "full_name": "Travis Hunter",
+        "nicknames": [
+            "Travis",
+            "Hunter",
+            "Travis Hunter"
+        ],
+        "position": "WR"
+    },
+    {
+        "player_id": "7526",
+        "full_name": "Jaylen Waddle",
+        "nicknames": [
+            "Jaylen",
+            "Waddle",
+            "Jaylen Waddle"
+        ],
+        "position": "WR"
+    },
+    {
+        "player_id": "4981",
+        "full_name": "Calvin Ridley",
+        "nicknames": [
+            "Calvin",
+            "Ridley",
+            "Calvin Ridley"
+        ],
+        "position": "WR"
+    },
+    {
+        "player_id": "6783",
+        "full_name": "Jerry Jeudy",
+        "nicknames": [
+            "Jerry",
+            "Jeudy",
+            "Jerry Jeudy"
+        ],
+        "position": "WR"
+    },
+    {
+        "player_id": "8144",
+        "full_name": "Chris Olave",
+        "nicknames": [
+            "Chris",
+            "Olave",
+            "Chris Olave"
+        ],
+        "position": "WR"
+    },
+    {
+        "player_id": "11620",
+        "full_name": "Rome Odunze",
+        "nicknames": [
+            "Rome",
+            "Odunze",
+            "Rome Odunze"
+        ],
+        "position": "WR"
+    },
+    {
+        "player_id": "5947",
+        "full_name": "Jakobi Meyers",
+        "nicknames": [
+            "Jakobi",
+            "Meyers",
+            "Jakobi Meyers"
+        ],
+        "position": "WR"
+    },
+    {
+        "player_id": "5872",
+        "full_name": "Deebo Samuel",
+        "nicknames": [
+            "Deebo",
+            "Samuel",
+            "Deebo Samuel"
+        ],
+        "position": "WR"
+    },
+    {
+        "player_id": "9756",
+        "full_name": "Jordan Addison",
+        "nicknames": [
+            "Jordan",
+            "Addison",
+            "Jordan Addison"
+        ],
+        "position": "WR"
+    },
+    {
+        "player_id": "4039",
+        "full_name": "Cooper Kupp",
+        "nicknames": [
+            "Cooper",
+            "Kupp",
+            "Cooper Kupp"
+        ],
+        "position": "WR"
+    },
+    {
+        "player_id": "2449",
+        "full_name": "Stefon Diggs",
+        "nicknames": [
+            "Stefon",
+            "Diggs",
+            "Stefon Diggs"
+        ],
+        "position": "WR"
+    },
+    {
+        "player_id": "12501",
+        "full_name": "Matthew Golden",
+        "nicknames": [
+            "Matthew",
+            "Golden",
+            "Matthew Golden"
+        ],
+        "position": "WR"
+    },
+    {
+        "player_id": "12514",
+        "full_name": "Emeka Egbuka",
+        "nicknames": [
+            "Emeka",
+            "Egbuka",
+            "Emeka Egbuka"
+        ],
+        "position": "WR"
+    },
+    {
+        "player_id": "8134",
+        "full_name": "Khalil Shakir",
+        "nicknames": [
+            "Khalil",
+            "Shakir",
+            "Khalil Shakir"
+        ],
+        "position": "WR"
+    },
+    {
+        "player_id": "11638",
+        "full_name": "Ricky Pearsall",
+        "nicknames": [
+            "Ricky",
+            "Pearsall",
+            "Ricky Pearsall"
+        ],
+        "position": "WR"
+    },
+    {
+        "player_id": "4037",
+        "full_name": "Chris Godwin",
+        "nicknames": [
+            "Chris",
+            "Godwin",
+            "Chris Godwin"
+        ],
+        "position": "WR"
+    },
+    {
+        "player_id": "7049",
+        "full_name": "Jauan Jennings",
+        "nicknames": [
+            "Jauan",
+            "Jennings",
+            "Jauan Jennings"
+        ],
+        "position": "WR"
+    },
+    {
+        "player_id": "10222",
+        "full_name": "Jayden Reed",
+        "nicknames": [
+            "Jayden",
+            "Reed",
+            "Jayden Reed"
+        ],
+        "position": "WR"
+    },
+    {
+        "player_id": "9500",
+        "full_name": "Josh Downs",
+        "nicknames": [
+            "Josh",
+            "Downs",
+            "Josh Downs"
+        ],
+        "position": "WR"
+    },
+    {
+        "player_id": "6819",
+        "full_name": "Michael Pittman",
+        "nicknames": [
+            "Michael",
+            "Pittman",
+            "Michael Pittman"
+        ],
+        "position": "WR"
+    },
+    {
+        "player_id": "12484",
+        "full_name": "Jayden Higgins",
+        "nicknames": [
+            "Jayden",
+            "Higgins",
+            "Jayden Higgins"
+        ],
+        "position": "WR"
+    },
+    {
+        "player_id": "11637",
+        "full_name": "Keon Coleman",
+        "nicknames": [
+            "Keon",
+            "Coleman",
+            "Keon Coleman"
+        ],
+        "position": "WR"
+    },
+    {
+        "player_id": "6803",
+        "full_name": "Brandon Aiyuk",
+        "nicknames": [
+            "Brandon",
+            "Aiyuk",
+            "Brandon Aiyuk"
+        ],
+        "position": "WR"
+    },
+    {
+        "player_id": "7090",
+        "full_name": "Darnell Mooney",
+        "nicknames": [
+            "Darnell",
+            "Mooney",
+            "Darnell Mooney"
+        ],
+        "position": "WR"
+    },
+    {
+        "player_id": "8676",
+        "full_name": "Rashid Shaheed",
+        "nicknames": [
+            "Rashid",
+            "Shaheed",
+            "Rashid Shaheed"
+        ],
+        "position": "WR"
+    },
+    {
+        "player_id": "9494",
+        "full_name": "Marvin Mims",
+        "nicknames": [
+            "Marvin",
+            "Mims",
+            "Marvin Mims"
+        ],
+        "position": "WR"
+    },
+    {
+        "player_id": "12519",
+        "full_name": "Luther Burden",
+        "nicknames": [
+            "Luther",
+            "Burden",
+            "Luther Burden"
+        ],
+        "position": "WR"
+    },
+    {
+        "player_id": "12509",
+        "full_name": "Tre' Harris",
+        "nicknames": [
+            "Tre'",
+            "Harris",
+            "Tre' Harris"
+        ],
+        "position": "WR"
+    },
+    {
+        "player_id": "1479",
+        "full_name": "Keenan Allen",
+        "nicknames": [
+            "Keenan",
+            "Allen",
+            "Keenan Allen"
+        ],
+        "position": "WR"
+    },
+    {
+        "player_id": "4950",
+        "full_name": "Christian Kirk",
+        "nicknames": [
+            "Christian",
+            "Kirk",
+            "Christian Kirk"
+        ],
+        "position": "WR"
+    },
+    {
+        "player_id": "7571",
+        "full_name": "Rashod Bateman",
+        "nicknames": [
+            "Rashod",
+            "Bateman",
+            "Rashod Bateman"
+        ],
+        "position": "WR"
+    },
+    {
+        "player_id": "1689",
+        "full_name": "Adam Thielen",
+        "nicknames": [
+            "Adam",
+            "Thielen",
+            "Adam Thielen"
+        ],
+        "position": "WR"
+    },
+    {
+        "player_id": "12547",
+        "full_name": "Kyle Williams",
+        "nicknames": [
+            "Kyle",
+            "Williams",
+            "Kyle Williams"
+        ],
+        "position": "WR"
+    },
+    {
+        "player_id": "12541",
+        "full_name": "Dont'e Thornton",
+        "nicknames": [
+            "Dont'e",
+            "Thornton",
+            "Dont'e Thornton"
+        ],
+        "position": "WR"
+    },
+    {
+        "player_id": "7670",
+        "full_name": "Joshua Palmer",
+        "nicknames": [
+            "Joshua",
+            "Palmer",
+            "Joshua Palmer"
+        ],
+        "position": "WR"
+    },
+    {
+        "player_id": "11626",
+        "full_name": "Xavier Legette",
+        "nicknames": [
+            "Xavier",
+            "Legette",
+            "Xavier Legette"
+        ],
+        "position": "WR"
+    },
+    {
+        "player_id": "10444",
+        "full_name": "Cedric Tillman",
+        "nicknames": [
+            "Cedric",
+            "Tillman",
+            "Cedric Tillman"
+        ],
+        "position": "WR"
+    },
+    {
+        "player_id": "5848",
+        "full_name": "Hollywood Brown",
+        "nicknames": [
+            "Hollywood",
+            "Brown",
+            "Hollywood Brown"
+        ],
+        "position": "WR"
+    },
+    {
+        "player_id": "8126",
+        "full_name": "Wan'Dale Robinson",
+        "nicknames": [
+            "Wan'Dale",
+            "Robinson",
+            "Wan'Dale Robinson"
+        ],
+        "position": "WR"
+    },
+    {
+        "player_id": "12483",
+        "full_name": "Jack Bech",
+        "nicknames": [
+            "Jack",
+            "Bech",
+            "Jack Bech"
+        ],
+        "position": "WR"
+    },
+    {
+        "player_id": "9501",
+        "full_name": "DeMario Douglas",
+        "nicknames": [
+            "DeMario",
+            "Douglas",
+            "DeMario Douglas"
+        ],
+        "position": "WR"
+    },
+    {
+        "player_id": "12499",
+        "full_name": "Elic Ayomanor",
+        "nicknames": [
+            "Elic",
+            "Ayomanor",
+            "Elic Ayomanor"
+        ],
+        "position": "WR"
+    },
+    {
+        "player_id": "1426",
+        "full_name": "DeAndre Hopkins",
+        "nicknames": [
+            "DeAndre",
+            "Hopkins",
+            "DeAndre Hopkins"
+        ],
+        "position": "WR"
+    },
+    {
+        "player_id": "8121",
+        "full_name": "Romeo Doubs",
+        "nicknames": [
+            "Romeo",
+            "Doubs",
+            "Romeo Doubs"
+        ],
+        "position": "WR"
+    },
+    {
+        "player_id": "2374",
+        "full_name": "Tyler Lockett",
+        "nicknames": [
+            "Tyler",
+            "Lockett",
+            "Tyler Lockett"
+        ],
+        "position": "WR"
+    },
+    {
+        "player_id": "12492",
+        "full_name": "Pat Bryant",
+        "nicknames": [
+            "Pat",
+            "Bryant",
+            "Pat Bryant"
+        ],
+        "position": "WR"
+    },
+    {
+        "player_id": "11618",
+        "full_name": "Jalen McMillan",
+        "nicknames": [
+            "Jalen",
+            "McMillan",
+            "Jalen McMillan"
+        ],
+        "position": "WR"
+    },
+    {
+        "player_id": "12535",
+        "full_name": "Isaac TeSlaa",
+        "nicknames": [
+            "Isaac",
+            "TeSlaa",
+            "Isaac TeSlaa"
+        ],
+        "position": "WR"
+    },
+    {
+        "player_id": "12497",
+        "full_name": "Tory Horton",
+        "nicknames": [
+            "Tory",
+            "Horton",
+            "Tory Horton"
+        ],
+        "position": "WR"
+    },
+    {
+        "player_id": "9754",
+        "full_name": "Quentin Johnston",
+        "nicknames": [
+            "Quentin",
+            "Johnston",
+            "Quentin Johnston"
+        ],
+        "position": "WR"
+    },
+    {
+        "player_id": "11625",
+        "full_name": "Adonai Mitchell",
+        "nicknames": [
+            "Adonai",
+            "Mitchell",
+            "Adonai Mitchell"
+        ],
+        "position": "WR"
+    },
+    {
+        "player_id": "8142",
+        "full_name": "Alec Pierce",
+        "nicknames": [
+            "Alec",
+            "Pierce",
+            "Alec Pierce"
+        ],
+        "position": "WR"
+    },
+    {
+        "player_id": "12505",
+        "full_name": "Jalen Royals",
+        "nicknames": [
+            "Jalen",
+            "Royals",
+            "Jalen Royals"
+        ],
+        "position": "WR"
+    },
+    {
+        "player_id": "3621",
+        "full_name": "Jordan Williams-Lambert",
+        "nicknames": [
+            "Jordan",
+            "Williams-Lambert",
+            "Jordan Williams-Lambert"
+        ],
+        "position": "WR"
+    },
+    {
+        "player_id": "4139",
+        "full_name": "Amara Darboh",
+        "nicknames": [
+            "Amara",
+            "Darboh",
+            "Amara Darboh"
+        ],
+        "position": "WR"
+    },
+    {
+        "player_id": "12536",
+        "full_name": "Jaylin Noel",
+        "nicknames": [
+            "Jaylin",
+            "Noel",
+            "Jaylin Noel"
+        ],
+        "position": "WR"
+    },
+    {
+        "player_id": "6361",
+        "full_name": "Raphael Leonard",
+        "nicknames": [
+            "Raphael",
+            "Leonard",
+            "Raphael Leonard"
+        ],
+        "position": "WR"
+    },
+    {
+        "player_id": "11646",
+        "full_name": "Jalen Coker",
+        "nicknames": [
+            "Jalen",
+            "Coker",
+            "Jalen Coker"
+        ],
+        "position": "WR"
+    },
+    {
+        "player_id": "5950",
+        "full_name": "Nyqwan Murray",
+        "nicknames": [
+            "Nyqwan",
+            "Murray",
+            "Nyqwan Murray"
+        ],
+        "position": "WR"
+    },
+    {
+        "player_id": "8125",
+        "full_name": "Calvin Austin",
+        "nicknames": [
+            "Calvin",
+            "Austin",
+            "Calvin Austin"
+        ],
+        "position": "WR"
+    },
+    {
+        "player_id": "5984",
+        "full_name": "Anthony Ratliff-Williams",
+        "nicknames": [
+            "Anthony",
+            "Ratliff-Williams",
+            "Anthony Ratliff-Williams"
+        ],
+        "position": "WR"
+    },
+    {
+        "player_id": "2309",
+        "full_name": "Amari Cooper",
+        "nicknames": [
+            "Amari",
+            "Cooper",
+            "Amari Cooper"
+        ],
+        "position": "WR"
+    },
+    {
+        "player_id": "7587",
+        "full_name": "Dyami Brown",
+        "nicknames": [
+            "Dyami",
+            "Brown",
+            "Dyami Brown"
+        ],
+        "position": "WR"
+    },
+    {
+        "player_id": "8573",
+        "full_name": "Talolo Limi-Jones",
+        "nicknames": [
+            "Talolo",
+            "Limi-Jones",
+            "Talolo Limi-Jones"
+        ],
+        "position": "WR"
+    },
+    {
+        "player_id": "5166",
+        "full_name": "Da'Mari Scott",
+        "nicknames": [
+            "Da'Mari",
+            "Scott",
+            "Da'Mari Scott"
+        ],
+        "position": "WR"
+    },
+    {
+        "player_id": "10232",
+        "full_name": "Michael Wilson",
+        "nicknames": [
+            "Michael",
+            "Wilson",
+            "Michael Wilson"
+        ],
+        "position": "WR"
+    },
+    {
+        "player_id": "7370",
+        "full_name": "JoJo Ward",
+        "nicknames": [
+            "JoJo",
+            "Ward",
+            "JoJo Ward"
+        ],
+        "position": "WR"
+    },
+    {
+        "player_id": "6381",
+        "full_name": "Alexander Hollins",
+        "nicknames": [
+            "Alexander",
+            "Hollins",
+            "Alexander Hollins"
+        ],
+        "position": "WR"
+    },
+    {
+        "player_id": "7056",
+        "full_name": "Darrell Stewart",
+        "nicknames": [
+            "Darrell",
+            "Stewart",
+            "Darrell Stewart"
+        ],
+        "position": "WR"
+    },
+    {
+        "player_id": "10226",
+        "full_name": "Andrei Iosivas",
+        "nicknames": [
+            "Andrei",
+            "Iosivas",
+            "Andrei Iosivas"
+        ],
+        "position": "WR"
+    },
+    {
+        "player_id": "6149",
+        "full_name": "Darius Slayton",
+        "nicknames": [
+            "Darius",
+            "Slayton",
+            "Darius Slayton"
+        ],
+        "position": "WR"
+    },
+    {
+        "player_id": "11604",
+        "full_name": "Brock Bowers",
+        "nicknames": [
+            "Brock",
+            "Bowers",
+            "Brock Bowers"
+        ],
+        "position": "TE"
+    },
+    {
+        "player_id": "8130",
+        "full_name": "Trey McBride",
+        "nicknames": [
+            "Trey",
+            "McBride",
+            "Trey McBride"
+        ],
+        "position": "TE"
+    },
+    {
+        "player_id": "4217",
+        "full_name": "George Kittle",
+        "nicknames": [
+            "George",
+            "Kittle",
+            "George Kittle"
+        ],
+        "position": "TE"
+    },
+    {
+        "player_id": "10859",
+        "full_name": "Sam LaPorta",
+        "nicknames": [
+            "Sam",
+            "LaPorta",
+            "Sam LaPorta"
+        ],
+        "position": "TE"
+    },
+    {
+        "player_id": "5844",
+        "full_name": "T.J. Hockenson",
+        "nicknames": [
+            "T.J.",
+            "Hockenson",
+            "T.J. Hockenson"
+        ],
+        "position": "TE"
+    },
+    {
+        "player_id": "1466",
+        "full_name": "Travis Kelce",
+        "nicknames": [
+            "Travis",
+            "Kelce",
+            "Travis Kelce"
+        ],
+        "position": "TE"
+    },
+    {
+        "player_id": "5012",
+        "full_name": "Mark Andrews",
+        "nicknames": [
+            "Mark",
+            "Andrews",
+            "Mark Andrews"
+        ],
+        "position": "TE"
+    },
+    {
+        "player_id": "4066",
+        "full_name": "Evan Engram",
+        "nicknames": [
+            "Evan",
+            "Engram",
+            "Evan Engram"
+        ],
+        "position": "TE"
+    },
+    {
+        "player_id": "4033",
+        "full_name": "David Njoku",
+        "nicknames": [
+            "David",
+            "Njoku",
+            "David Njoku"
+        ],
+        "position": "TE"
+    },
+    {
+        "player_id": "12518",
+        "full_name": "Tyler Warren",
+        "nicknames": [
+            "Tyler",
+            "Warren",
+            "Tyler Warren"
+        ],
+        "position": "TE"
+    },
+    {
+        "player_id": "12517",
+        "full_name": "Colston Loveland",
+        "nicknames": [
+            "Colston",
+            "Loveland",
+            "Colston Loveland"
+        ],
+        "position": "TE"
+    },
+    {
+        "player_id": "10236",
+        "full_name": "Dalton Kincaid",
+        "nicknames": [
+            "Dalton",
+            "Kincaid",
+            "Dalton Kincaid"
+        ],
+        "position": "TE"
+    },
+    {
+        "player_id": "7553",
+        "full_name": "Kyle Pitts",
+        "nicknames": [
+            "Kyle",
+            "Pitts",
+            "Kyle Pitts"
+        ],
+        "position": "TE"
+    },
+    {
+        "player_id": "4144",
+        "full_name": "Jonnu Smith",
+        "nicknames": [
+            "Jonnu",
+            "Smith",
+            "Jonnu Smith"
+        ],
+        "position": "TE"
+    },
+    {
+        "player_id": "9484",
+        "full_name": "Tucker Kraft",
+        "nicknames": [
+            "Tucker",
+            "Kraft",
+            "Tucker Kraft"
+        ],
+        "position": "TE"
+    },
+    {
+        "player_id": "8110",
+        "full_name": "Jake Ferguson",
+        "nicknames": [
+            "Jake",
+            "Ferguson",
+            "Jake Ferguson"
+        ],
+        "position": "TE"
+    },
+    {
+        "player_id": "5022",
+        "full_name": "Dallas Goedert",
+        "nicknames": [
+            "Dallas",
+            "Goedert",
+            "Dallas Goedert"
+        ],
+        "position": "TE"
+    },
+    {
+        "player_id": "1339",
+        "full_name": "Zach Ertz",
+        "nicknames": [
+            "Zach",
+            "Ertz",
+            "Zach Ertz"
+        ],
+        "position": "TE"
+    },
+    {
+        "player_id": "8131",
+        "full_name": "Isaiah Likely",
+        "nicknames": [
+            "Isaiah",
+            "Likely",
+            "Isaiah Likely"
+        ],
+        "position": "TE"
+    },
+    {
+        "player_id": "3214",
+        "full_name": "Hunter Henry",
+        "nicknames": [
+            "Hunter",
+            "Henry",
+            "Hunter Henry"
+        ],
+        "position": "TE"
+    },
+    {
+        "player_id": "9480",
+        "full_name": "Brenton Strange",
+        "nicknames": [
+            "Brenton",
+            "Strange",
+            "Brenton Strange"
+        ],
+        "position": "TE"
+    },
+    {
+        "player_id": "2505",
+        "full_name": "Darren Waller",
+        "nicknames": [
+            "Darren",
+            "Waller",
+            "Darren Waller"
+        ],
+        "position": "TE"
+    },
+    {
+        "player_id": "8210",
+        "full_name": "Chig Okonkwo",
+        "nicknames": [
+            "Chig",
+            "Okonkwo",
+            "Chig Okonkwo"
+        ],
+        "position": "TE"
+    },
+    {
+        "player_id": "12521",
+        "full_name": "Elijah Arroyo",
+        "nicknames": [
+            "Elijah",
+            "Arroyo",
+            "Elijah Arroyo"
+        ],
+        "position": "TE"
+    },
+    {
+        "player_id": "4993",
+        "full_name": "Mike Gesicki",
+        "nicknames": [
+            "Mike",
+            "Gesicki",
+            "Mike Gesicki"
+        ],
+        "position": "TE"
+    },
+    {
+        "player_id": "12498",
+        "full_name": "Mason Taylor",
+        "nicknames": [
+            "Mason",
+            "Taylor",
+            "Mason Taylor"
+        ],
+        "position": "TE"
+    },
+    {
+        "player_id": "8111",
+        "full_name": "Cade Otton",
+        "nicknames": [
+            "Cade",
+            "Otton",
+            "Cade Otton"
+        ],
+        "position": "TE"
+    },
+    {
+        "player_id": "7600",
+        "full_name": "Pat Freiermuth",
+        "nicknames": [
+            "Pat",
+            "Freiermuth",
+            "Pat Freiermuth"
+        ],
+        "position": "TE"
+    },
+    {
+        "player_id": "5001",
+        "full_name": "Dalton Schultz",
+        "nicknames": [
+            "Dalton",
+            "Schultz",
+            "Dalton Schultz"
+        ],
+        "position": "TE"
+    },
+    {
+        "player_id": "6535",
+        "full_name": "Nate Becker",
+        "nicknames": [
+            "Nate",
+            "Becker",
+            "Nate Becker"
+        ],
+        "position": "TE"
+    },
+    {
+        "player_id": "11600",
+        "full_name": "Ja'Tavion Sanders",
+        "nicknames": [
+            "Ja'Tavion",
+            "Sanders",
+            "Ja'Tavion Sanders"
+        ],
+        "position": "TE"
+    },
+    {
+        "player_id": "12487",
+        "full_name": "Terrance Ferguson",
+        "nicknames": [
+            "Terrance",
+            "Ferguson",
+            "Terrance Ferguson"
+        ],
+        "position": "TE"
+    },
+    {
+        "player_id": "4563",
+        "full_name": "Taylor McNamara",
+        "nicknames": [
+            "Taylor",
+            "McNamara",
+            "Taylor McNamara"
+        ],
+        "position": "TE"
+    },
+    {
+        "player_id": "11597",
+        "full_name": "Theo Johnson",
+        "nicknames": [
+            "Theo",
+            "Johnson",
+            "Theo Johnson"
+        ],
+        "position": "TE"
+    },
+    {
+        "player_id": "5322",
+        "full_name": "James Looney",
+        "nicknames": [
+            "James",
+            "Looney",
+            "James Looney"
+        ],
+        "position": "TE"
+    },
+    {
+        "player_id": "12506",
+        "full_name": "Harold Fannin",
+        "nicknames": [
+            "Harold",
+            "Fannin",
+            "Harold Fannin"
+        ],
+        "position": "TE"
+    },
+    {
+        "player_id": "6018",
+        "full_name": "Zach Gentry",
+        "nicknames": [
+            "Zach",
+            "Gentry",
+            "Zach Gentry"
+        ],
+        "position": "TE"
+    },
+    {
+        "player_id": "7002",
+        "full_name": "Juwan Johnson",
+        "nicknames": [
+            "Juwan",
+            "Johnson",
+            "Juwan Johnson"
+        ],
+        "position": "TE"
+    },
+    {
+        "player_id": "2040",
+        "full_name": "Scott Simonson",
+        "nicknames": [
+            "Scott",
+            "Simonson",
+            "Scott Simonson"
+        ],
+        "position": "TE"
+    },
+    {
+        "player_id": "7828",
+        "full_name": "Noah Gray",
+        "nicknames": [
+            "Noah",
+            "Gray",
+            "Noah Gray"
+        ],
+        "position": "TE"
+    },
+    {
+        "player_id": "6826",
+        "full_name": "Cole Kmet",
+        "nicknames": [
+            "Cole",
+            "Kmet",
+            "Cole Kmet"
+        ],
+        "position": "TE"
+    },
+    {
+        "player_id": "4536",
+        "full_name": "Jason Croom",
+        "nicknames": [
+            "Jason",
+            "Croom",
+            "Jason Croom"
+        ],
+        "position": "TE"
+    },
+    {
+        "player_id": "12493",
+        "full_name": "Oronde Gadsden",
+        "nicknames": [
+            "Oronde",
+            "Gadsden",
+            "Oronde Gadsden"
+        ],
+        "position": "TE"
+    },
+    {
+        "player_id": "11596",
+        "full_name": "Ben Sinnott",
+        "nicknames": [
+            "Ben",
+            "Sinnott",
+            "Ben Sinnott"
+        ],
+        "position": "TE"
+    },
+    {
+        "player_id": "2595",
+        "full_name": "Tim Semisch",
+        "nicknames": [
+            "Tim",
+            "Semisch",
+            "Tim Semisch"
+        ],
+        "position": "TE"
+    },
+    {
+        "player_id": "3271",
+        "full_name": "Tyler Higbee",
+        "nicknames": [
+            "Tyler",
+            "Higbee",
+            "Tyler Higbee"
+        ],
+        "position": "TE"
+    },
+    {
+        "player_id": "2996",
+        "full_name": "Logan Stokes",
+        "nicknames": [
+            "Logan",
+            "Stokes",
+            "Logan Stokes"
+        ],
+        "position": "TE"
+    },
+    {
+        "player_id": "12126",
+        "full_name": "Isaac Rex",
+        "nicknames": [
+            "Isaac",
+            "Rex",
+            "Isaac Rex"
+        ],
+        "position": "TE"
+    },
+    {
+        "player_id": "5133",
+        "full_name": "Tyler Conklin",
+        "nicknames": [
+            "Tyler",
+            "Conklin",
+            "Tyler Conklin"
+        ],
+        "position": "TE"
+    },
+    {
+        "player_id": "2930",
+        "full_name": "Justin Tukes",
+        "nicknames": [
+            "Justin",
+            "Tukes",
+            "Justin Tukes"
+        ],
+        "position": "TE"
+    }
+]
