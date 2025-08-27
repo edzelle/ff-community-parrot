@@ -1,0 +1,41 @@
+.player-card {
+    width: 80%;
+    max-width: 600px;
+    margin: 10px auto;
+    padding: 15px;
+    border: 2px solid #ccc;
+    border-radius: 8px;
+    cursor: pointer;
+    background-color: #555151; /* <-- grey background */
+    transition: background-color 0.2s, border-color 0.2s;
+  }
+  
+  .player-card:hover {
+    background-color: #737070; /* <-- slightly darker on hover */
+  }
+  
+  .player-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .player-name {
+    font-size: 1.2em;
+    font-weight: bold;
+  }
+  
+  .player-score {
+    font-size: 1em;
+  }
+  
+  .comment-list {
+    margin-top: 10px;
+    padding-left: 20px;
+  }
+  
+  .comment {
+    font-size: 0.95em;
+    margin-bottom: 5px;
+  }
+  

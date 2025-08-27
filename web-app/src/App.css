@@ -1,0 +1,68 @@
+body, html, #root {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+}
+
+.App {
+  min-height: 100vh;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Centers everything horizontally */
+  justify-content: flex-start;
+  padding: 20px;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+.search-wrapper {
+  position: relative;
+  display: inline-block;
+  margin-bottom: 10px;
+}
+
+input[type="text"] {
+  padding: 8px 30px 8px 10px;
+  font-size: 1em;
+  width: 300px;
+}
+
+.clear-btn {
+  position: absolute;
+  right: 5px;
+  top: 50%;
+  transform: translateY(-50%);
+  background: none;
+  border: none;
+  font-size: 18px;
+  cursor: pointer;
+  color: #666;
+}
+
+.clear-btn:hover {
+  color: #000;
+}
+
+.sort-btn {
+  margin-bottom: 20px;
+  padding: 6px 12px;
+  font-size: 1em;
+  cursor: pointer;
+  background-color: #555151;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.sort-btn:hover {
+  background-color: #737070;
+}
+
+
+.player-list {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

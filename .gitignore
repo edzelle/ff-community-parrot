@@ -1,2 +1,4 @@
 secrets.json
 player_sentiment_output.json
+ff_env/*
+__pycache__/pull_data.cpython-311.pyc
